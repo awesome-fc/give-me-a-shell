@@ -1,0 +1,25 @@
+{
+  "name": "give-me-a-shell",
+  "version": "1.0.0",
+  "description": "Give me a shell, I can...",
+  "main": "index.js",
+  "dependencies": {
+    "@alicloud/fc": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"no test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "todo"
+  },
+  "keywords": [
+    "shell",
+    "fc",
+    "serverless",
+    "aliyun"
+  ],
+  "author": "rockuw",
+  "license": "ISC"
+}
