@@ -7,6 +7,8 @@ Powered by Aliyun [FunctionCompute](https://www.aliyun.com/product/fc)
 
 ![example](example.png)
 
+For the web version, see: https://github.com/awesome-fc/give-me-a-shell-web
+
 ## Example
 
 ```
@@ -26,6 +28,6 @@ node index.js
 
 ## TODO
 
-- [ ] provide web shell
 - [ ] commands auto completion
+- [ ] streaming output(e.g. ping)
 - [ ] provide usage statistics
